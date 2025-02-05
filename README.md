@@ -20,10 +20,12 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/paul
    git clone https://github.com/your-username/pneumonia-detection-cnn.git
    cd pneumonia-detection-cnn
 2. Install Dependencies
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-3. Run the Training Script
-python train.py
+4. Run the Training Script
+   ```bash
+   python train.py
 
 
 ## 📊 Results
